@@ -38,3 +38,5 @@ This project showcases a dynamic market dashboard built using Microsoft Excel. I
 | Microsoft Excel   | Calculations, Summary, and Interpretation    |
 | Pivot Tables      | Extraction and Easy Summary                   |
 | Pivot Charts      | Visualization                                 |
+## Data Source
+Brocelle Gadgets.xltx
